@@ -9,7 +9,7 @@ You can see a live demo here: http://xilinus.com/jquery-addresspicker/demos/inde
 
 = Features
 
-- Autocompletion is maiden with jquery-autcomplete widget and filled by google maps V3 geocoding suggests.
+- Autocompletion is made with jquery-autcomplete widget and filled by google maps V3 geocoding suggests.
 - Instant display suggestion on a map
 
 = Credits
